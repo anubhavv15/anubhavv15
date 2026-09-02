@@ -1,4 +1,8 @@
-#
+<div align="center">
+  <a class="link" href="header.svg">
+    <img class="image" src="header.svg" alt="Header with Anubhav..." />
+  </a>
+</div>#
 # 💫 About Me:
 🚀 MERN Stack Developer<br>☕ Java Developer<br>🐍 Python Enthusiast<br><br>Building responsive web applications and continuously learning new technologies to create impactful digital solutions.
 
